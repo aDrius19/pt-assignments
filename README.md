@@ -1,4 +1,4 @@
-University assignments for Fundamental Programming Techniques
+University assignments for Fundamental Programming Techniques course (2019-2020 year)
 
 Not done for a full mark
 
