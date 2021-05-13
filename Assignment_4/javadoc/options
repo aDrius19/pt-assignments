@@ -1,0 +1,28 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/NetBeans/RestaurantManagement/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/NetBeans/RestaurantManagement/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RestaurantManagement 1.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/NetBeans/RestaurantManagement/target/javadoc-bundle-options'
+-tag
+"pre:a:Preconditions:"
+-tag
+"post:a:Postconditions:"
+-tag
+"inv:a:Invariant:"
+-use
+-version
+-windowtitle
+'RestaurantManagement 1.1 API'
